@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/68a62542366acf8f2c2ff9384b22678a9cd5b6500d66239bc33c940191b32d9c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966)
-<h1 align="center">Hi 👋, I'm Kazi Safen Hasan Rishat</h1>
+<h1 align="center">Hi 👋, I'm Rishat</h1>
 <h3 align="center">A passionate Data and AI enthusiast.</h3>
 
 <img align="right" alt="coding" width = "400" src = https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif>
